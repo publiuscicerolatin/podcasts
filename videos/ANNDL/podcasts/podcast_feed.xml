@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ANNDL Course Podcast</title>
+    <link>https://github.com/publiuscicerolatin/podcasts</link>
+    <language>en-us</language>
+    <itunes:author>Course AI Assistant</itunes:author>
+    <description>AI-generated podcast summaries of ANNDL course materials</description>
+    <itunes:summary>AI-generated podcast summaries of ANNDL course materials</itunes:summary>
+    <lastBuildDate>Tue, 06 May 2025 22:29:11 +0000</lastBuildDate>
+    <pubDate>Tue, 06 May 2025 22:29:11 +0000</pubDate>
+    <item>
+      <title>Neural Networks in Dynamic Systems</title>
+      <guid isPermaLink="false">cdf79ce0-e01b-4721-a40f-552ac6845748</guid>
+      <pubDate>Tue, 06 May 2025 22:29:11 +0000</pubDate>
+      <description>AI-generated podcast for Neural Networks in Dynamic Systems</description>
+      <itunes:summary>AI-generated podcast for Neural Networks in Dynamic Systems</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/publiuscicerolatin/podcasts/main/videos/ANNDL/podcasts/H02C4A_2025_Time_series_prediction_nonlinear_modelling_and_control_combined_notes_podcast.mp3" type="audio/mpeg" length="0"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
