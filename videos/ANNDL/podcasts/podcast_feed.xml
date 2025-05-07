@@ -7,15 +7,15 @@
     <itunes:author>Course AI Assistant</itunes:author>
     <description>AI-generated podcast summaries of ANNDL course materials</description>
     <itunes:summary>AI-generated podcast summaries of ANNDL course materials</itunes:summary>
-    <lastBuildDate>Wed, 07 May 2025 07:52:24 +0000</lastBuildDate>
-    <pubDate>Wed, 07 May 2025 07:52:24 +0000</pubDate>
+    <lastBuildDate>Wed, 07 May 2025 08:03:46 +0000</lastBuildDate>
+    <pubDate>Wed, 07 May 2025 08:03:46 +0000</pubDate>
     <item>
       <title>Neural Network Architectures and Backpropagation</title>
       <guid isPermaLink="false">e3d7c2f2-fffa-42b5-adb7-c9a89c75ddea</guid>
       <pubDate>2025-05-05T20:18:54.520Z</pubDate>
       <description>AI-generated podcast for Neural Network Architectures and Backpropagation</description>
       <itunes:summary>AI-generated podcast for Neural Network Architectures and Backpropagation</itunes:summary>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/246a243e-6e42-4b25-9720-78daab06fa8e_20250505201852.wav" type="audio/mpeg" length="0"/>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/246a243e-6e42-4b25-9720-78daab06fa8e_20250505201852.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
@@ -24,7 +24,7 @@
       <pubDate>2025-05-05T20:19:06.903Z</pubDate>
       <description>AI-generated podcast for Neural Networks Course Introduction and Overview</description>
       <itunes:summary>AI-generated podcast for Neural Networks Course Introduction and Overview</itunes:summary>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/5863ab7e-d0b4-433b-958d-f6ae81b712bd_20250505201900.wav" type="audio/mpeg" length="0"/>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/5863ab7e-d0b4-433b-958d-f6ae81b712bd_20250505201900.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
@@ -33,7 +33,7 @@
       <pubDate>2025-05-05T20:18:17.873Z</pubDate>
       <description>AI-generated podcast for Neural Networks for Time Series Prediction</description>
       <itunes:summary>AI-generated podcast for Neural Networks for Time Series Prediction</itunes:summary>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/115db7f3-fed5-4515-9f01-5234e948c31e_20250505201814.wav" type="audio/mpeg" length="0"/>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/115db7f3-fed5-4515-9f01-5234e948c31e_20250505201814.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
   </channel>
