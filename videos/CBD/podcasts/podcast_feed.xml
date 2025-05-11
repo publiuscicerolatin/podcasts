@@ -13,12 +13,12 @@
       <title>CBD Course Podcast</title>
       <link>https://github.com/publiuscicerolatin/podcasts</link>
     </image>
-    <lastBuildDate>Sun, 11 May 2025 17:40:25 +0000</lastBuildDate>
-    <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+    <lastBuildDate>Sun, 11 May 2025 18:29:34 +0000</lastBuildDate>
+    <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
     <item>
       <title>The Gibbs Sampler and its Applications</title>
       <guid isPermaLink="false">f905ebad-742d-42b6-87a1-51079070f95e</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for The Gibbs Sampler and its Applications</description>
       <itunes:summary>AI-generated podcast for The Gibbs Sampler and its Applications</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/e1c88ab0-07ba-4a3d-a39c-cb57997c9238_20250511133323.wav" type="audio/wav" length="10485760"/>
@@ -27,7 +27,7 @@
     <item>
       <title>Bayesian Statistical Inference and the BST-REAM</title>
       <guid isPermaLink="false">5b58e6dd-e2d4-43c3-89f2-48cfeb83fb2e</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Bayesian Statistical Inference and the BST-REAM</description>
       <itunes:summary>AI-generated podcast for Bayesian Statistical Inference and the BST-REAM</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/50af02dd-e098-4f83-9d9f-3ff3a420a5d7_20250511133242.wav" type="audio/wav" length="10485760"/>
@@ -36,7 +36,7 @@
     <item>
       <title>Understanding Metropolis-Hastings MCMC Algorithms</title>
       <guid isPermaLink="false">71ba6196-bd1f-4230-9e45-ae9686f0c51e</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Understanding Metropolis-Hastings MCMC Algorithms</description>
       <itunes:summary>AI-generated podcast for Understanding Metropolis-Hastings MCMC Algorithms</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/ec28a13c-8b72-43b1-942c-64f5a59e772c_20250511133303.wav" type="audio/wav" length="10485760"/>
@@ -45,7 +45,7 @@
     <item>
       <title>Gaussian Data and Conjugate Prior</title>
       <guid isPermaLink="false">6d2e33db-6ab9-4b10-b282-fedddfd43290</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Gaussian Data and Conjugate Prior</description>
       <itunes:summary>AI-generated podcast for Gaussian Data and Conjugate Prior</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/aacce436-fea9-49eb-a819-0649a115d6e8_20250511133658.wav" type="audio/wav" length="10485760"/>
@@ -54,7 +54,7 @@
     <item>
       <title>Bayesian Analysis for Binomial Data and Continuous Parameters</title>
       <guid isPermaLink="false">34846b80-372c-4092-8e72-8def86006da1</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Bayesian Analysis for Binomial Data and Continuous Parameters</description>
       <itunes:summary>AI-generated podcast for Bayesian Analysis for Binomial Data and Continuous Parameters</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/cecfb25b-0f40-451b-97fc-923ffb6cbf29_20250511133656.wav" type="audio/wav" length="10485760"/>
@@ -63,7 +63,7 @@
     <item>
       <title>Bayesian Analysis with Poisson Data and Transformations</title>
       <guid isPermaLink="false">88e48eda-3bd6-4df4-9797-8d49a6368637</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Bayesian Analysis with Poisson Data and Transformations</description>
       <itunes:summary>AI-generated podcast for Bayesian Analysis with Poisson Data and Transformations</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/b40cda4b-58a6-42bf-a528-c4d26d1bd1ec_20250511133716.wav" type="audio/wav" length="10485760"/>
@@ -72,7 +72,7 @@
     <item>
       <title>Bayesian Inference and Posterior Summaries</title>
       <guid isPermaLink="false">d4e21e64-b50f-4cf7-a5a3-523ae2309166</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Bayesian Inference and Posterior Summaries</description>
       <itunes:summary>AI-generated podcast for Bayesian Inference and Posterior Summaries</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/cf4999ad-a81f-428f-9066-2bd8ff297df3_20250511134105.wav" type="audio/wav" length="10485760"/>
@@ -81,7 +81,7 @@
     <item>
       <title>Frequentist Statistics and the P-Value</title>
       <guid isPermaLink="false">b9091e49-06b6-46ac-8fd3-d080eb505911</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Frequentist Statistics and the P-Value</description>
       <itunes:summary>AI-generated podcast for Frequentist Statistics and the P-Value</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/af219f09-102d-4286-9317-d695d76878a6_20250511134156.wav" type="audio/wav" length="10485760"/>
@@ -90,7 +90,7 @@
     <item>
       <title>Bayesian Predictive Distributions and Exchangeability</title>
       <guid isPermaLink="false">1d36d37d-ae3e-40df-a59c-8057be308a85</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Bayesian Predictive Distributions and Exchangeability</description>
       <itunes:summary>AI-generated podcast for Bayesian Predictive Distributions and Exchangeability</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/fe2137f9-a3ee-45a8-a6a5-570b439b73a3_20250511134159.wav" type="audio/wav" length="10485760"/>
@@ -99,7 +99,7 @@
     <item>
       <title>Statistical Inference: Likelihood Framework</title>
       <guid isPermaLink="false">8bc033bf-b98f-4071-a2a7-02b507088b61</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Statistical Inference: Likelihood Framework</description>
       <itunes:summary>AI-generated podcast for Statistical Inference: Likelihood Framework</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/aac7dc7d-20ee-44b1-8052-8e277f56de00_20250511134545.wav" type="audio/wav" length="10485760"/>
@@ -108,7 +108,7 @@
     <item>
       <title>Exploring Posterior Distributions Through Sampling and Integration</title>
       <guid isPermaLink="false">3921a4ee-80c5-4ce5-a7e1-a8d425c1840a</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Exploring Posterior Distributions Through Sampling and Integration</description>
       <itunes:summary>AI-generated podcast for Exploring Posterior Distributions Through Sampling and Integration</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/3ab79543-2a35-4a3b-87c2-548340214403_20250511134616.wav" type="audio/wav" length="10485760"/>
@@ -117,7 +117,7 @@
     <item>
       <title>Multivariate Bayesian Inference and Applications</title>
       <guid isPermaLink="false">ec670a89-4990-4553-a378-bafe572327a3</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Multivariate Bayesian Inference and Applications</description>
       <itunes:summary>AI-generated podcast for Multivariate Bayesian Inference and Applications</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/d9bb2141-4527-469c-bdd0-30920e3096d3_20250511134619.wav" type="audio/wav" length="10485760"/>
@@ -126,7 +126,7 @@
     <item>
       <title>Bayesian Hypothesis Testing and Bayes Factors</title>
       <guid isPermaLink="false">ce4e18f1-22c2-48dd-92c3-e90e062e1d98</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Bayesian Hypothesis Testing and Bayes Factors</description>
       <itunes:summary>AI-generated podcast for Bayesian Hypothesis Testing and Bayes Factors</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/93696df3-ce33-4ef4-bb03-95d705433e77_20250511135054.wav" type="audio/wav" length="10485760"/>
@@ -135,7 +135,7 @@
     <item>
       <title>Method of Composition and Bayesian Regression Models</title>
       <guid isPermaLink="false">7be5c5a9-e57a-40b4-b599-ceb5621230f7</guid>
-      <pubDate>Sun, 11 May 2025 17:40:25 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 18:29:34 +0000</pubDate>
       <description>AI-generated podcast for Method of Composition and Bayesian Regression Models</description>
       <itunes:summary>AI-generated podcast for Method of Composition and Bayesian Regression Models</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/b34da415-c37b-4f3b-8dc1-af0a77598247_20250511140843.wav" type="audio/wav" length="10485760"/>
