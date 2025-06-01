@@ -7,68 +7,68 @@
     <itunes:author>Course AI Assistant</itunes:author>
     <description>AI-generated podcast summaries of ANNDL course materials</description>
     <itunes:summary>AI-generated podcast summaries of ANNDL course materials</itunes:summary>
-    <lastBuildDate>Thu, 08 May 2025 08:00:40 +0000</lastBuildDate>
-    <pubDate>Thu, 08 May 2025 08:00:40 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Jun 2025 18:33:58 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Jun 2025 18:33:58 +0000</pubDate>
     <item>
-      <title>Neural Network Architectures and Backpropagation</title>
+      <title>H02C4A_2025_Multilayer_feedforward_networks_and_backpropagation</title>
       <guid isPermaLink="false">e3d7c2f2-fffa-42b5-adb7-c9a89c75ddea</guid>
       <pubDate>2025-05-05T20:18:54.520Z</pubDate>
-      <description>AI-generated podcast for Neural Network Architectures and Backpropagation</description>
-      <itunes:summary>AI-generated podcast for Neural Network Architectures and Backpropagation</itunes:summary>
+      <description>Neural Network Architectures and Backpropagation. AI-generated podcast</description>
+      <itunes:summary>Neural Network Architectures and Backpropagation. AI-generated podcast</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/246a243e-6e42-4b25-9720-78daab06fa8e_20250505201852.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>Neural Networks Course Introduction and Overview</title>
+      <title>H02C4A_2025_Introduction</title>
       <guid isPermaLink="false">b1b77a8c-2b47-488e-911f-95935e2ea7cf</guid>
       <pubDate>2025-05-05T20:19:06.903Z</pubDate>
-      <description>AI-generated podcast for Neural Networks Course Introduction and Overview</description>
-      <itunes:summary>AI-generated podcast for Neural Networks Course Introduction and Overview</itunes:summary>
+      <description>Neural Networks Course Introduction and Overview. AI-generated podcast</description>
+      <itunes:summary>Neural Networks Course Introduction and Overview. AI-generated podcast</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/5863ab7e-d0b4-433b-958d-f6ae81b712bd_20250505201900.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>Neural Networks for Time Series Prediction</title>
+      <title>H02C4A_2025_Time_series_prediction_nonlinear_modelling_and_control</title>
       <guid isPermaLink="false">61ed54c1-68ef-4391-b5a1-a4e56c9ee6c2</guid>
       <pubDate>2025-05-05T20:18:17.873Z</pubDate>
-      <description>AI-generated podcast for Neural Networks for Time Series Prediction</description>
-      <itunes:summary>AI-generated podcast for Neural Networks for Time Series Prediction</itunes:summary>
+      <description>Neural Networks for Time Series Prediction. AI-generated podcast</description>
+      <itunes:summary>Neural Networks for Time Series Prediction. AI-generated podcast</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/115db7f3-fed5-4515-9f01-5234e948c31e_20250505201814.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>Neural Attention Mechanisms and Transformers</title>
+      <title>H02C4A_2025_Normalization_attention_and_transformers</title>
       <guid isPermaLink="false">9d8d9352-3d0d-4b92-bf33-f6f302e90b72</guid>
-      <pubDate>Thu, 08 May 2025 08:00:40 +0000</pubDate>
-      <description>AI-generated podcast for Neural Attention Mechanisms and Transformers</description>
-      <itunes:summary>AI-generated podcast for Neural Attention Mechanisms and Transformers</itunes:summary>
+      <pubDate>Sun, 01 Jun 2025 18:33:58 +0000</pubDate>
+      <description>Neural Attention Mechanisms and Transformers. AI-generated podcast</description>
+      <itunes:summary>Neural Attention Mechanisms and Transformers. AI-generated podcast</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/3fa1d8d2-9188-4db6-850b-f37ce28057c6_20250508054105.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>Vector Quantisation, Self-Organizing Maps, and Radial Basis Functions</title>
+      <title>H02C4A_2025_Vector_quantization_self_organizing_maps_regularization_theory</title>
       <guid isPermaLink="false">daad7a22-1182-4688-8385-ec7d694c5d93</guid>
-      <pubDate>Thu, 08 May 2025 08:00:40 +0000</pubDate>
-      <description>AI-generated podcast for Vector Quantisation, Self-Organizing Maps, and Radial Basis Functions</description>
-      <itunes:summary>AI-generated podcast for Vector Quantisation, Self-Organizing Maps, and Radial Basis Functions</itunes:summary>
+      <pubDate>Sun, 01 Jun 2025 18:33:58 +0000</pubDate>
+      <description>Vector Quantisation, Self-Organizing Maps, and Radial Basis Functions. AI-generated podcast</description>
+      <itunes:summary>Vector Quantisation, Self-Organizing Maps, and Radial Basis Functions. AI-generated podcast</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/b85bba9d-fbee-46ac-a27c-0d17e248be05_20250508054414.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>Deep Learning Architectures and Techniques</title>
+      <title>H02C4A_2025_Nonlinear_PCA_autoencoders_CNN</title>
       <guid isPermaLink="false">a0cfa11d-0f1a-4593-ba7e-4d078f427887</guid>
-      <pubDate>Thu, 08 May 2025 08:00:40 +0000</pubDate>
-      <description>AI-generated podcast for Deep Learning Architectures and Techniques</description>
-      <itunes:summary>AI-generated podcast for Deep Learning Architectures and Techniques</itunes:summary>
+      <pubDate>Sun, 01 Jun 2025 18:33:58 +0000</pubDate>
+      <description>Deep Learning Architectures and Techniques. AI-generated podcast</description>
+      <itunes:summary>Deep Learning Architectures and Techniques. AI-generated podcast</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/ef2c3eb9-287b-4008-84da-482fceb913b7_20250508054444.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>An Overview of Generative Models</title>
+      <title>H02C4A_2025_Generative_models</title>
       <guid isPermaLink="false">45fdcabb-62f8-4660-8423-a971db1f06b8</guid>
-      <pubDate>Thu, 08 May 2025 08:00:40 +0000</pubDate>
-      <description>AI-generated podcast for An Overview of Generative Models</description>
-      <itunes:summary>AI-generated podcast for An Overview of Generative Models</itunes:summary>
+      <pubDate>Sun, 01 Jun 2025 18:33:58 +0000</pubDate>
+      <description>An Overview of Generative Models. AI-generated podcast</description>
+      <itunes:summary>An Overview of Generative Models. AI-generated podcast</itunes:summary>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/ea505ab1-e4e4-421e-8767-f9f798b62fbc_20250508054822.wav" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
