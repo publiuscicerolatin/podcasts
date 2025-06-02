@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>CAB Course Podcast</title>
+    <link>https://github.com/publiuscicerolatin/podcasts</link>
+    <language>en-us</language>
+    <itunes:author>Course AI Assistant</itunes:author>
+    <description>AI-generated podcast summaries of CAB course materials</description>
+    <itunes:summary>AI-generated podcast summaries of CAB course materials</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/publiuscicerolatin/podcasts/main/videos/CAB/podcasts_detailed_notes/podcast_cover.png"/>
+    <image>
+      <url>https://raw.githubusercontent.com/publiuscicerolatin/podcasts/main/videos/CAB/podcasts_detailed_notes/podcast_cover.png</url>
+      <title>CAB Course Podcast</title>
+      <link>https://github.com/publiuscicerolatin/podcasts</link>
+    </image>
+    <lastBuildDate>Mon, 02 Jun 2025 16:13:42 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 16:13:42 +0000</pubDate>
+    <item>
+      <title>LTI openen-03_combined_notes</title>
+      <guid isPermaLink="false">29a3c687-2058-44eb-8471-15eb728e8aea</guid>
+      <pubDate>Mon, 02 Jun 2025 16:13:42 +0000</pubDate>
+      <description>Machine Learning, Clustering, and Correspondence Analysis. AI-generated podcast</description>
+      <itunes:summary>Machine Learning, Clustering, and Correspondence Analysis. AI-generated podcast</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/ec88e8ef-14b5-40e6-b902-a7a865e97f4c_20250602113128.wav" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>LTI openen-06_combined_notes</title>
+      <guid isPermaLink="false">6aa6003f-b90c-4d34-867d-4dcd31282e93</guid>
+      <pubDate>Mon, 02 Jun 2025 16:13:42 +0000</pubDate>
+      <description>Supervised Learning and Web Data Acquisition. AI-generated podcast</description>
+      <itunes:summary>Supervised Learning and Web Data Acquisition. AI-generated podcast</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/dbce6804-75d5-4576-8ae2-366e17d0e17e_20250602113235.wav" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>LTI openen-05_combined_notes</title>
+      <guid isPermaLink="false">6c8d55d3-674c-4663-b677-e3ca576e842e</guid>
+      <pubDate>Mon, 02 Jun 2025 16:13:42 +0000</pubDate>
+      <description>Machine Learning: Trees, SVM, and Neural Networks. AI-generated podcast</description>
+      <itunes:summary>Machine Learning: Trees, SVM, and Neural Networks. AI-generated podcast</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/df389252-a992-4b29-86c6-ff8ab2c3992d_20250602113015.wav" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>LTI openen-01_combined_notes</title>
+      <guid isPermaLink="false">0ecf2733-08f0-4105-b04d-c1910e4dfc7c</guid>
+      <pubDate>Mon, 02 Jun 2025 16:13:42 +0000</pubDate>
+      <description>Computational Social Science Course Overview. AI-generated podcast</description>
+      <itunes:summary>Computational Social Science Course Overview. AI-generated podcast</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/468e8879-762e-4cb0-a28b-55ce34d8c9d0_20250602120615.wav" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>LTI openen-04_combined_notes</title>
+      <guid isPermaLink="false">e96e5333-1802-4737-8ff0-d4f65fbb79ae</guid>
+      <pubDate>Mon, 02 Jun 2025 16:13:42 +0000</pubDate>
+      <description>Supervised Learning, Bias, and Model Evaluation. AI-generated podcast</description>
+      <itunes:summary>Supervised Learning, Bias, and Model Evaluation. AI-generated podcast</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/2af4e439-be35-4620-9ada-380da3cc209a_20250602121753.wav" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>LTI openen-07_combined_notes</title>
+      <guid isPermaLink="false">7e7f5943-2130-43fe-858a-9f76c2982176</guid>
+      <pubDate>Mon, 02 Jun 2025 16:13:42 +0000</pubDate>
+      <description>Applied Text Analysis Data Frameworks and Text Processing. AI-generated podcast</description>
+      <itunes:summary>Applied Text Analysis Data Frameworks and Text Processing. AI-generated podcast</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/dbf67aa3-f899-4664-bfbf-b16e04352ccf_20250602121848.wav" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>LTI openen-02_combined_notes</title>
+      <guid isPermaLink="false">41f4adfd-11cc-47c1-adea-ca000ee8e32d</guid>
+      <pubDate>Mon, 02 Jun 2025 16:13:42 +0000</pubDate>
+      <description>Big Data and Introduction to R for Data Analysis. AI-generated podcast</description>
+      <itunes:summary>Big Data and Introduction to R for Data Analysis. AI-generated podcast</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/7c117de0-c47f-489e-afb8-7bd9711199a1_20250602125918.wav" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
