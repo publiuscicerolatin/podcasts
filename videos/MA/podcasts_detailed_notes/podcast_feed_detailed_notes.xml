@@ -7,166 +7,182 @@
     <itunes:author>Course AI Assistant</itunes:author>
     <description>AI-generated podcast summaries of MA course materials</description>
     <itunes:summary>AI-generated podcast summaries of MA course materials</itunes:summary>
-    <lastBuildDate>Mon, 16 Jun 2025 23:32:02 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Jun 2025 23:37:52 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 23:37:52 +0000</pubDate>
     <item>
-      <title>video_15_reporting_and_discussing_the_results_combined_notes</title>
-      <guid isPermaLink="false">aadd6c95-ff6a-4ebe-b4f6-3fa648d1c509</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Rapport et Discussion en Méta-Analyse. AI-generated podcast</description>
-      <itunes:summary>Rapport et Discussion en Méta-Analyse. AI-generated podcast</itunes:summary>
-      <itunes:episode>1</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074028402-aadd6c95-ff6a-4ebe-b4f6-3fa648d1c509-1750074022684-attempt1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>video_10_Multilevel_meta_analysis_combined_notes</title>
-      <guid isPermaLink="false">be225b1e-dd4b-4729-96f5-2dece4b73731</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Modélisation Multiniveau pour la Méta-Analyse. AI-generated podcast</description>
-      <itunes:summary>Modélisation Multiniveau pour la Méta-Analyse. AI-generated podcast</itunes:summary>
-      <itunes:episode>2</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074038830-be225b1e-dd4b-4729-96f5-2dece4b73731-1750074032095-attempt1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>video_1_what_is_meta_analysis_combined_notes</title>
+      <title>Lesson 1: Introduction to Meta-Analysis</title>
       <guid isPermaLink="false">79673194-ddc9-479b-9e4e-28d9ac97a2f4</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Principes et applications de la méta-analyse. AI-generated podcast</description>
-      <itunes:summary>Principes et applications de la méta-analyse. AI-generated podcast</itunes:summary>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <description>Understanding what meta-analysis is and its fundamental concepts</description>
+      <itunes:summary>Understanding what meta-analysis is and its fundamental concepts</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074073556-79673194-ddc9-479b-9e4e-28d9ac97a2f4-1750074063826-attempt1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>video_5_extracting_data_combined_notes</title>
-      <guid isPermaLink="false">4cd4ccb7-0324-47fe-9eff-adcfb8e952c5</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Meta-Analysis: Data Extraction Strategies and Reliability. AI-generated podcast</description>
-      <itunes:summary>Meta-Analysis: Data Extraction Strategies and Reliability. AI-generated podcast</itunes:summary>
-      <itunes:episode>4</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074324175-4cd4ccb7-0324-47fe-9eff-adcfb8e952c5-1750074316363-attempt1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>video_4_bias_combined_notes</title>
-      <guid isPermaLink="false">a1610d36-bf39-4a98-9588-3113562e5dff</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Unmasking Bias in Meta-Analysis and Research Reporting. AI-generated podcast</description>
-      <itunes:summary>Unmasking Bias in Meta-Analysis and Research Reporting. AI-generated podcast</itunes:summary>
-      <itunes:episode>5</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074345227-a1610d36-bf39-4a98-9588-3113562e5dff-1750074339322-attempt1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>video_16_tools_for_meta_analysis_combined_notes</title>
-      <guid isPermaLink="false">5f728f33-75fb-43dd-bc28-95b1ec5a33af</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Systematic Review and Meta-Analysis Tools: A Comprehensive Guide. AI-generated podcast</description>
-      <itunes:summary>Systematic Review and Meta-Analysis Tools: A Comprehensive Guide. AI-generated podcast</itunes:summary>
-      <itunes:episode>6</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074322913-5f728f33-75fb-43dd-bc28-95b1ec5a33af-1750074315653-attempt1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>video_6_effect_size_calculation_combined_notes</title>
-      <guid isPermaLink="false">794d8c0d-761b-4037-bc84-e50f62fefd53</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Effect Sizes in Meta-Analysis: Calculation and Interpretation. AI-generated podcast</description>
-      <itunes:summary>Effect Sizes in Meta-Analysis: Calculation and Interpretation. AI-generated podcast</itunes:summary>
-      <itunes:episode>7</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074615179-794d8c0d-761b-4037-bc84-e50f62fefd53-1750074608384-attempt1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>video_2_alternatives_combined_notes</title>
+      <title>Lesson 2: Alternatives to Meta-Analysis</title>
       <guid isPermaLink="false">6f59e16c-7c51-415a-a2ed-ff62125b065a</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Méta-analyse : Exemples et Procédures Alternatives. AI-generated podcast</description>
-      <itunes:summary>Méta-analyse : Exemples et Procédures Alternatives. AI-generated podcast</itunes:summary>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <description>Exploring different approaches and alternatives to meta-analysis</description>
+      <itunes:summary>Exploring different approaches and alternatives to meta-analysis</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074847573-6f59e16c-7c51-415a-a2ed-ff62125b065a-1750074841043-attempt1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>video_8_assesssing_credibility_of_the_meta_analytic_results_combined_notes</title>
-      <guid isPermaLink="false">f6cc8da4-dc73-4cbf-8892-ffebac337d35</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Meta-Analysis: Evaluation, Bias, Outliers, and Assumptions. AI-generated podcast</description>
-      <itunes:summary>Meta-Analysis: Evaluation, Bias, Outliers, and Assumptions. AI-generated podcast</itunes:summary>
-      <itunes:episode>9</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074652202-f6cc8da4-dc73-4cbf-8892-ffebac337d35-1750074644385-attempt1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>video_12_applications_and_extensions_sced_meta_analysis_combined_notes</title>
-      <guid isPermaLink="false">65646a6b-d8ec-4fbc-a174-d6de4574d8fe</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Meta-Analysis of Single-Case Studies: Models and Applications. AI-generated podcast</description>
-      <itunes:summary>Meta-Analysis of Single-Case Studies: Models and Applications. AI-generated podcast</itunes:summary>
-      <itunes:episode>10</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750075797156-65646a6b-d8ec-4fbc-a174-d6de4574d8fe-1750075785349-attempt1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>video_3_study_retrieval_combined_notes</title>
+      <title>Lesson 3: Study Retrieval Methods</title>
       <guid isPermaLink="false">82463368-9167-407a-8049-7139b3cce63b</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Meta-Analysis: Retrieval, Selection, and Quality Assessment. AI-generated podcast</description>
-      <itunes:summary>Meta-Analysis: Retrieval, Selection, and Quality Assessment. AI-generated podcast</itunes:summary>
-      <itunes:episode>11</itunes:episode>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <description>Techniques and strategies for systematic study retrieval</description>
+      <itunes:summary>Techniques and strategies for systematic study retrieval</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750075796562-82463368-9167-407a-8049-7139b3cce63b-1750075785164-attempt1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>video_9_meta_analysis_in_R_combined_notes</title>
-      <guid isPermaLink="false">83af9ad0-b7ae-4fb2-b010-46f2d445626d</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Meta-Analysis in R: Teacher Expectancy and Prior Contact. AI-generated podcast</description>
-      <itunes:summary>Meta-Analysis in R: Teacher Expectancy and Prior Contact. AI-generated podcast</itunes:summary>
-      <itunes:episode>12</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750075774942-83af9ad0-b7ae-4fb2-b010-46f2d445626d-1750075768194-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <title>Lesson 4: Understanding Bias in Meta-Analysis</title>
+      <guid isPermaLink="false">a1610d36-bf39-4a98-9588-3113562e5dff</guid>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <description>Identifying and addressing various types of bias in meta-analyses</description>
+      <itunes:summary>Identifying and addressing various types of bias in meta-analyses</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074345227-a1610d36-bf39-4a98-9588-3113562e5dff-1750074339322-attempt1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>video_13_applications_and_extensions_intro_to_network_meta_analysis_combined_notes</title>
-      <guid isPermaLink="false">9d0d0178-7540-462a-a8c3-311b84a0049c</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Network Meta-Analysis: Transitivity, Consistency, and Inconsistency. AI-generated podcast</description>
-      <itunes:summary>Network Meta-Analysis: Transitivity, Consistency, and Inconsistency. AI-generated podcast</itunes:summary>
-      <itunes:episode>13</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750082137244-9d0d0178-7540-462a-a8c3-311b84a0049c-1750082131028-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <title>Lesson 5: Data Extraction Techniques</title>
+      <guid isPermaLink="false">4cd4ccb7-0324-47fe-9eff-adcfb8e952c5</guid>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <description>Methods and best practices for extracting data from studies</description>
+      <itunes:summary>Methods and best practices for extracting data from studies</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074324175-4cd4ccb7-0324-47fe-9eff-adcfb8e952c5-1750074316363-attempt1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>video_7_meta_analytical_models_combined_notes</title>
+      <title>Lesson 6: Effect Size Calculation</title>
+      <guid isPermaLink="false">794d8c0d-761b-4037-bc84-e50f62fefd53</guid>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <description>Comprehensive guide to calculating and interpreting effect sizes</description>
+      <itunes:summary>Comprehensive guide to calculating and interpreting effect sizes</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074615179-794d8c0d-761b-4037-bc84-e50f62fefd53-1750074608384-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>Lesson 7: Meta-Analytical Models</title>
       <guid isPermaLink="false">92e538d9-42c4-49b7-bf50-cf5d08e6ad84</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Méta-analyse: Modèles à Effets Fixes, Aléatoires et Mixtes. AI-generated podcast</description>
-      <itunes:summary>Méta-analyse: Modèles à Effets Fixes, Aléatoires et Mixtes. AI-generated podcast</itunes:summary>
-      <itunes:episode>14</itunes:episode>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <description>Overview of different meta-analytical models and their applications</description>
+      <itunes:summary>Overview of different meta-analytical models and their applications</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750082185219-92e538d9-42c4-49b7-bf50-cf5d08e6ad84-1750082175873-attempt1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>video_14_applications_and_extensions_meta_analysis_of_diagnostic_studies_combined_notes</title>
+      <title>Lesson 8: Assessing Credibility of Results</title>
+      <guid isPermaLink="false">f6cc8da4-dc73-4cbf-8892-ffebac337d35</guid>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <description>Methods for evaluating the credibility and robustness of meta-analytic findings</description>
+      <itunes:summary>Methods for evaluating the credibility and robustness of meta-analytic findings</itunes:summary>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074652202-f6cc8da4-dc73-4cbf-8892-ffebac337d35-1750074644385-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>Lesson 9: Meta-Analysis in R</title>
+      <guid isPermaLink="false">83af9ad0-b7ae-4fb2-b010-46f2d445626d</guid>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <description>Practical implementation of meta-analysis using R programming</description>
+      <itunes:summary>Practical implementation of meta-analysis using R programming</itunes:summary>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750075774942-83af9ad0-b7ae-4fb2-b010-46f2d445626d-1750075768194-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>Lesson 10: Multilevel Meta-Analysis</title>
+      <guid isPermaLink="false">be225b1e-dd4b-4729-96f5-2dece4b73731</guid>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <description>Advanced techniques in multilevel meta-analysis</description>
+      <itunes:summary>Advanced techniques in multilevel meta-analysis</itunes:summary>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074038830-be225b1e-dd4b-4729-96f5-2dece4b73731-1750074032095-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>Lesson 11: Robust Variance Estimation</title>
+      <guid isPermaLink="false">fd78d8e7-dc73-4ceb-8d94-f1de72f80086</guid>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <description>Understanding and implementing robust variance estimation in meta-analysis</description>
+      <itunes:summary>Understanding and implementing robust variance estimation in meta-analysis</itunes:summary>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750141873133-fd78d8e7-dc73-4ceb-8d94-f1de72f80086-1750141867081-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>Lesson 12: SCED Meta-Analysis</title>
+      <guid isPermaLink="false">65646a6b-d8ec-4fbc-a174-d6de4574d8fe</guid>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <description>Applications and extensions in single-case experimental design meta-analysis</description>
+      <itunes:summary>Applications and extensions in single-case experimental design meta-analysis</itunes:summary>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750075797156-65646a6b-d8ec-4fbc-a174-d6de4574d8fe-1750075785349-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>Lesson 13: Network Meta-Analysis</title>
+      <guid isPermaLink="false">9d0d0178-7540-462a-a8c3-311b84a0049c</guid>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <description>Introduction to network meta-analysis and its applications</description>
+      <itunes:summary>Introduction to network meta-analysis and its applications</itunes:summary>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750082137244-9d0d0178-7540-462a-a8c3-311b84a0049c-1750082131028-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>Lesson 14: Meta-Analysis of Diagnostic Studies</title>
       <guid isPermaLink="false">643bfafc-32ac-44a3-b4bf-f82bce2f732a</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Meta-Analysis of Diagnostic Study Quality. AI-generated podcast</description>
-      <itunes:summary>Meta-Analysis of Diagnostic Study Quality. AI-generated podcast</itunes:summary>
-      <itunes:episode>15</itunes:episode>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Special considerations and methods for meta-analyzing diagnostic studies</description>
+      <itunes:summary>Special considerations and methods for meta-analyzing diagnostic studies</itunes:summary>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
       <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750082156054-643bfafc-32ac-44a3-b4bf-f82bce2f732a-1750082149825-attempt1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>video_11_RVE_combined_notes</title>
-      <guid isPermaLink="false">fd78d8e7-dc73-4ceb-8d94-f1de72f80086</guid>
-      <pubDate>Mon, 16 Jun 2025 23:32:02 +0000</pubDate>
-      <description>Robust Variance Estimation for Dependent Meta-Analyses. AI-generated podcast</description>
-      <itunes:summary>Robust Variance Estimation for Dependent Meta-Analyses. AI-generated podcast</itunes:summary>
+      <title>Lesson 15: Reporting and Discussing Results</title>
+      <guid isPermaLink="false">aadd6c95-ff6a-4ebe-b4f6-3fa648d1c509</guid>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Best practices for reporting and discussing meta-analytic findings</description>
+      <itunes:summary>Best practices for reporting and discussing meta-analytic findings</itunes:summary>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074028402-aadd6c95-ff6a-4ebe-b4f6-3fa648d1c509-1750074022684-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>Lesson 16: Tools for Meta-Analysis</title>
+      <guid isPermaLink="false">5f728f33-75fb-43dd-bc28-95b1ec5a33af</guid>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Overview of software tools and resources for conducting meta-analysis</description>
+      <itunes:summary>Overview of software tools and resources for conducting meta-analysis</itunes:summary>
       <itunes:episode>16</itunes:episode>
-      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750141873133-fd78d8e7-dc73-4ceb-8d94-f1de72f80086-1750141867081-attempt1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/1750074322913-5f728f33-75fb-43dd-bc28-95b1ec5a33af-1750074315653-attempt1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
   </channel>
