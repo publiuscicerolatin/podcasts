@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>SVMMA Course Podcast</title>
+    <link>https://github.com/publiuscicerolatin/podcasts</link>
+    <language>en-us</language>
+    <itunes:author>Course AI Assistant</itunes:author>
+    <description>AI-generated podcast summaries of SVMMA course materials</description>
+    <itunes:summary>AI-generated podcast summaries of SVMMA course materials</itunes:summary>
+    <lastBuildDate>Thu, 24 Jul 2025 18:57:34 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 18:57:34 +0000</pubDate>
+    <item>
+      <title>H02D3A_2025_More_on_SVM_VC_Theory_and_Kernels_combined_notes</title>
+      <guid isPermaLink="false">f64eda4b-ae4d-48a2-a5ad-21393c999f74</guid>
+      <pubDate>Thu, 24 Jul 2025 18:57:34 +0000</pubDate>
+      <description>SVMs: Statistical Learning, Kernels, and Function Estimation. AI-generated podcast</description>
+      <itunes:summary>SVMs: Statistical Learning, Kernels, and Function Estimation. AI-generated podcast</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753375166317-f64eda4b-ae4d-48a2-a5ad-21393c999f74-1753375157163-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02D3A_2025_Introduction_combined_notes</title>
+      <guid isPermaLink="false">a2532983-61f3-4667-9208-be523d402719</guid>
+      <pubDate>Thu, 24 Jul 2025 18:57:34 +0000</pubDate>
+      <description>Support Vector Machines: Theory and Applications. AI-generated podcast</description>
+      <itunes:summary>Support Vector Machines: Theory and Applications. AI-generated podcast</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753375111639-a2532983-61f3-4667-9208-be523d402719-1753375107100-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02D3A_2025_SVM_Classifiers_combined_notes</title>
+      <guid isPermaLink="false">4c8e0435-4044-47be-9e1d-2441a151a7a3</guid>
+      <pubDate>Thu, 24 Jul 2025 18:57:34 +0000</pubDate>
+      <description>Support Vector Machines: Theory and Applications. AI-generated podcast</description>
+      <itunes:summary>Support Vector Machines: Theory and Applications. AI-generated podcast</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753375176401-4c8e0435-4044-47be-9e1d-2441a151a7a3-1753375165462-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02D3A_2025_SVM_Applications_combined_notes</title>
+      <guid isPermaLink="false">036b7a63-8c48-4b1f-ae0c-c23bd7ab56d8</guid>
+      <pubDate>Thu, 24 Jul 2025 18:57:34 +0000</pubDate>
+      <description>Support Vector Machines: Theory, Applications, and Advanced Techniques. AI-generated podcast</description>
+      <itunes:summary>Support Vector Machines: Theory, Applications, and Advanced Techniques. AI-generated podcast</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753375472995-036b7a63-8c48-4b1f-ae0c-c23bd7ab56d8-1753375467188-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02D3A_2025_More_on_LS_SVM_GP_and_RKHS_combined_notes</title>
+      <guid isPermaLink="false">47d8f489-7d79-446c-bacc-a475daa984ec</guid>
+      <pubDate>Thu, 24 Jul 2025 18:57:34 +0000</pubDate>
+      <description>From SVM to Kernel Methods and Beyond. AI-generated podcast</description>
+      <itunes:summary>From SVM to Kernel Methods and Beyond. AI-generated podcast</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753375524680-47d8f489-7d79-446c-bacc-a475daa984ec-1753375514698-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02D3A_2025_Least_Squares_SVM_Classifiers_combined_notes</title>
+      <guid isPermaLink="false">6390ddbe-13cb-43cd-a56c-75acfea55ddd</guid>
+      <pubDate>Thu, 24 Jul 2025 18:57:34 +0000</pubDate>
+      <description>Least Squares Support Vector Machines: Theory and Applications. AI-generated podcast</description>
+      <itunes:summary>Least Squares Support Vector Machines: Theory and Applications. AI-generated podcast</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753375447340-6390ddbe-13cb-43cd-a56c-75acfea55ddd-1753375443195-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
