@@ -7,8 +7,14 @@
     <itunes:author>Course AI Assistant</itunes:author>
     <description>AI-generated podcast summaries of ANNDL course materials</description>
     <itunes:summary>AI-generated podcast summaries of ANNDL course materials</itunes:summary>
-    <lastBuildDate>Fri, 25 Jul 2025 17:48:31 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 17:48:31 +0000</pubDate>
+    <itunes:image href="https://raw.githubusercontent.com/publiuscicerolatin/podcasts/main/videos/ANNDL/podcasts_detailed_notes/podcast_cover.png"/>
+    <image>
+      <url>https://raw.githubusercontent.com/publiuscicerolatin/podcasts/main/videos/ANNDL/podcasts_detailed_notes/podcast_cover.png</url>
+      <title>ANNDL Course Podcast</title>
+      <link>https://github.com/publiuscicerolatin/podcasts</link>
+    </image>
+    <lastBuildDate>Fri, 25 Jul 2025 17:49:14 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 17:49:14 +0000</pubDate>
     <item>
       <title>ANNDL - Episode 1: Introduction</title>
       <guid isPermaLink="false">a7caa460-6405-4b5e-ae57-bd3e06d96583</guid>
