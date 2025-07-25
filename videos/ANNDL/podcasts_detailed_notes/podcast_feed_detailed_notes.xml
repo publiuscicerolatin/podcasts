@@ -7,96 +7,105 @@
     <itunes:author>Course AI Assistant</itunes:author>
     <description>AI-generated podcast summaries of ANNDL course materials</description>
     <itunes:summary>AI-generated podcast summaries of ANNDL course materials</itunes:summary>
-    <lastBuildDate>Fri, 25 Jul 2025 17:27:02 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 17:32:55 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 17:32:55 +0000</pubDate>
     <item>
-      <title>H02C4A_2025_Normalization_attention_and_transformers_combined_notes</title>
-      <guid isPermaLink="false">2ff3c392-88c9-4bd5-a715-03eb0ea31e81</guid>
-      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
-      <description>Transformers: Normalization, Attention, and Scaling Laws. AI-generated podcast</description>
-      <itunes:summary>Transformers: Normalization, Attention, and Scaling Laws. AI-generated podcast</itunes:summary>
-      <itunes:episode>1</itunes:episode>
-      <enclosure url="https://data.autocontentapi.com/1753448665399-2ff3c392-88c9-4bd5-a715-03eb0ea31e81-1753448656337-1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>H02C4A_2025_Recurrent_neural_networks_and_associative_memories_combined_notes</title>
-      <guid isPermaLink="false">543f216b-cad8-4cbe-b292-2444384894fb</guid>
-      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
-      <description>Hopfield Networks: Associative Memory to Transformers. AI-generated podcast</description>
-      <itunes:summary>Hopfield Networks: Associative Memory to Transformers. AI-generated podcast</itunes:summary>
-      <itunes:episode>2</itunes:episode>
-      <enclosure url="https://data.autocontentapi.com/1753448603007-543f216b-cad8-4cbe-b292-2444384894fb-1753448597137-1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>H02C4A_2025_Vector_quantization_self_organizing_maps_regularization_theory_combined_notes</title>
-      <guid isPermaLink="false">fab61117-731d-4e9e-a205-b4723ce0bb6d</guid>
-      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
-      <description>Vector Quantization, SOMs, and RBF Networks. AI-generated podcast</description>
-      <itunes:summary>Vector Quantization, SOMs, and RBF Networks. AI-generated podcast</itunes:summary>
-      <itunes:episode>3</itunes:episode>
-      <enclosure url="https://data.autocontentapi.com/1753448615340-fab61117-731d-4e9e-a205-b4723ce0bb6d-1753448607920-1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>H02C4A_2025_Multilayer_feedforward_networks_and_backpropagation_combined_notes</title>
-      <guid isPermaLink="false">064a3e45-dd7a-47b4-ba10-25cb10352c2b</guid>
-      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
-      <description>Neural Networks: Architectures, Theory, and Optimization. AI-generated podcast</description>
-      <itunes:summary>Neural Networks: Architectures, Theory, and Optimization. AI-generated podcast</itunes:summary>
-      <itunes:episode>4</itunes:episode>
-      <enclosure url="https://data.autocontentapi.com/1753448949352-064a3e45-dd7a-47b4-ba10-25cb10352c2b-1753448944655-1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>H02C4A_2025_Generative_models_combined_notes</title>
-      <guid isPermaLink="false">ecbbaba0-0097-46fe-bb1a-0e0d8d4d7b1c</guid>
-      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
-      <description>Generative Models: From Boltzmann Machines to Diffusion. AI-generated podcast</description>
-      <itunes:summary>Generative Models: From Boltzmann Machines to Diffusion. AI-generated podcast</itunes:summary>
-      <itunes:episode>5</itunes:episode>
-      <enclosure url="https://data.autocontentapi.com/1753448997755-ecbbaba0-0097-46fe-bb1a-0e0d8d4d7b1c-1753448989262-1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>H02C4A_2025_Time_series_prediction_nonlinear_modelling_and_control_combined_notes</title>
-      <guid isPermaLink="false">cd5a8a9c-8a8b-4738-a5a8-0ccf57b65a5b</guid>
-      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
-      <description>Neural Networks for Time Series and Control. AI-generated podcast</description>
-      <itunes:summary>Neural Networks for Time Series and Control. AI-generated podcast</itunes:summary>
-      <itunes:episode>6</itunes:episode>
-      <enclosure url="https://data.autocontentapi.com/1753448965620-cd5a8a9c-8a8b-4738-a5a8-0ccf57b65a5b-1753448958454-1.mp3" type="audio/wav" length="10485760"/>
-      <itunes:duration>30:00</itunes:duration>
-    </item>
-    <item>
-      <title>H02C4A_2025_Introduction_combined_notes</title>
+      <title>ANNDL - Episode 1: Introduction</title>
       <guid isPermaLink="false">a7caa460-6405-4b5e-ae57-bd3e06d96583</guid>
-      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
-      <description>Neural Networks: Principles, History, and Applications. AI-generated podcast</description>
-      <itunes:summary>Neural Networks: Principles, History, and Applications. AI-generated podcast</itunes:summary>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Episode 1 covering Introduction</description>
+      <itunes:summary>Episode 1 covering Introduction</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <enclosure url="https://data.autocontentapi.com/1753449268464-a7caa460-6405-4b5e-ae57-bd3e06d96583-1753449263641-1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>H02C4A_2025_Nonlinear_PCA_autoencoders_CNN_combined_notes</title>
+      <title>ANNDL - Episode 2: Multilayer feedforward &amp; backpropagation</title>
+      <guid isPermaLink="false">064a3e45-dd7a-47b4-ba10-25cb10352c2b</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Episode 2 covering Multilayer feedforward networks and backpropagation</description>
+      <itunes:summary>Episode 2 covering Multilayer feedforward networks and backpropagation</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://data.autocontentapi.com/1753448949352-064a3e45-dd7a-47b4-ba10-25cb10352c2b-1753448944655-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>ANNDL - Episode 3: Time-series prediction, nonlinear modelling &amp; control</title>
+      <guid isPermaLink="false">cd5a8a9c-8a8b-4738-a5a8-0ccf57b65a5b</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Episode 3 covering Time-series prediction, nonlinear modelling and control</description>
+      <itunes:summary>Episode 3 covering Time-series prediction, nonlinear modelling and control</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://data.autocontentapi.com/1753448965620-cd5a8a9c-8a8b-4738-a5a8-0ccf57b65a5b-1753448958454-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>ANNDL - Episode 4: Classification &amp; Bayesian decision theory</title>
+      <guid isPermaLink="false">770c6549-637b-40ed-b824-1c629caddfdb</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Episode 4 covering Classification and Bayesian decision theory</description>
+      <itunes:summary>Episode 4 covering Classification and Bayesian decision theory</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://data.autocontentapi.com/1753449327795-770c6549-637b-40ed-b824-1c629caddfdb-1753449314463-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>ANNDL - Episode 5: Recurrent &amp; associative memories</title>
+      <guid isPermaLink="false">543f216b-cad8-4cbe-b292-2444384894fb</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Episode 5 covering Recurrent neural networks and associative memories</description>
+      <itunes:summary>Episode 5 covering Recurrent neural networks and associative memories</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://data.autocontentapi.com/1753448603007-543f216b-cad8-4cbe-b292-2444384894fb-1753448597137-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>ANNDL - Episode 6: Vector quantization, self-organizing maps, regularization theory</title>
+      <guid isPermaLink="false">fab61117-731d-4e9e-a205-b4723ce0bb6d</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Episode 6 covering Vector quantization, self-organizing maps, regularization theory</description>
+      <itunes:summary>Episode 6 covering Vector quantization, self-organizing maps, regularization theory</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://data.autocontentapi.com/1753448615340-fab61117-731d-4e9e-a205-b4723ce0bb6d-1753448607920-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>ANNDL - Episode 7: Nonlinear principal component analysis, autoencoders &amp; CNNs</title>
       <guid isPermaLink="false">b5db234a-87d1-4eab-8a09-e2cccf687da8</guid>
-      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
-      <description>Deep Learning: From PCA to CNNs and Beyond. AI-generated podcast</description>
-      <itunes:summary>Deep Learning: From PCA to CNNs and Beyond. AI-generated podcast</itunes:summary>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Episode 7 covering Nonlinear principal component analysis, autoencoders, deep learning with stacked autoencoders and convolutional neural networks</description>
+      <itunes:summary>Episode 7 covering Nonlinear principal component analysis, autoencoders, deep learning with stacked autoencoders and convolutional neural networks</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
       <enclosure url="https://data.autocontentapi.com/1753449288070-b5db234a-87d1-4eab-8a09-e2cccf687da8-1753449283770-1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>H02C4A_2025_Classification_and_Bayesian_decision_theory_combined_notes</title>
-      <guid isPermaLink="false">770c6549-637b-40ed-b824-1c629caddfdb</guid>
-      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
-      <description>Machine Learning: Classification and Bayesian Decision Theory. AI-generated podcast</description>
-      <itunes:summary>Machine Learning: Classification and Bayesian Decision Theory. AI-generated podcast</itunes:summary>
+      <title>ANNDL - Episode 8: Generative models</title>
+      <guid isPermaLink="false">ecbbaba0-0097-46fe-bb1a-0e0d8d4d7b1c</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Episode 8 covering Generative models</description>
+      <itunes:summary>Episode 8 covering Generative models</itunes:summary>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://data.autocontentapi.com/1753448997755-ecbbaba0-0097-46fe-bb1a-0e0d8d4d7b1c-1753448989262-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>ANNDL - Episode 9: Normalization, attention, &amp; transformers</title>
+      <guid isPermaLink="false">2ff3c392-88c9-4bd5-a715-03eb0ea31e81</guid>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <description>Episode 9 covering Normalization, attention, and transformers</description>
+      <itunes:summary>Episode 9 covering Normalization, attention, and transformers</itunes:summary>
       <itunes:episode>9</itunes:episode>
-      <enclosure url="https://data.autocontentapi.com/1753449327795-770c6549-637b-40ed-b824-1c629caddfdb-1753449314463-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://data.autocontentapi.com/1753448665399-2ff3c392-88c9-4bd5-a715-03eb0ea31e81-1753448656337-1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
   </channel>
