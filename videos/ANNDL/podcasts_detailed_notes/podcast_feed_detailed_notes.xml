@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ANNDL Course Podcast</title>
+    <link>https://github.com/publiuscicerolatin/podcasts</link>
+    <language>en-us</language>
+    <itunes:author>Course AI Assistant</itunes:author>
+    <description>AI-generated podcast summaries of ANNDL course materials</description>
+    <itunes:summary>AI-generated podcast summaries of ANNDL course materials</itunes:summary>
+    <lastBuildDate>Fri, 25 Jul 2025 17:27:02 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+    <item>
+      <title>H02C4A_2025_Normalization_attention_and_transformers_combined_notes</title>
+      <guid isPermaLink="false">2ff3c392-88c9-4bd5-a715-03eb0ea31e81</guid>
+      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+      <description>Transformers: Normalization, Attention, and Scaling Laws. AI-generated podcast</description>
+      <itunes:summary>Transformers: Normalization, Attention, and Scaling Laws. AI-generated podcast</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753448665399-2ff3c392-88c9-4bd5-a715-03eb0ea31e81-1753448656337-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02C4A_2025_Recurrent_neural_networks_and_associative_memories_combined_notes</title>
+      <guid isPermaLink="false">543f216b-cad8-4cbe-b292-2444384894fb</guid>
+      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+      <description>Hopfield Networks: Associative Memory to Transformers. AI-generated podcast</description>
+      <itunes:summary>Hopfield Networks: Associative Memory to Transformers. AI-generated podcast</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753448603007-543f216b-cad8-4cbe-b292-2444384894fb-1753448597137-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02C4A_2025_Vector_quantization_self_organizing_maps_regularization_theory_combined_notes</title>
+      <guid isPermaLink="false">fab61117-731d-4e9e-a205-b4723ce0bb6d</guid>
+      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+      <description>Vector Quantization, SOMs, and RBF Networks. AI-generated podcast</description>
+      <itunes:summary>Vector Quantization, SOMs, and RBF Networks. AI-generated podcast</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753448615340-fab61117-731d-4e9e-a205-b4723ce0bb6d-1753448607920-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02C4A_2025_Multilayer_feedforward_networks_and_backpropagation_combined_notes</title>
+      <guid isPermaLink="false">064a3e45-dd7a-47b4-ba10-25cb10352c2b</guid>
+      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+      <description>Neural Networks: Architectures, Theory, and Optimization. AI-generated podcast</description>
+      <itunes:summary>Neural Networks: Architectures, Theory, and Optimization. AI-generated podcast</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753448949352-064a3e45-dd7a-47b4-ba10-25cb10352c2b-1753448944655-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02C4A_2025_Generative_models_combined_notes</title>
+      <guid isPermaLink="false">ecbbaba0-0097-46fe-bb1a-0e0d8d4d7b1c</guid>
+      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+      <description>Generative Models: From Boltzmann Machines to Diffusion. AI-generated podcast</description>
+      <itunes:summary>Generative Models: From Boltzmann Machines to Diffusion. AI-generated podcast</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753448997755-ecbbaba0-0097-46fe-bb1a-0e0d8d4d7b1c-1753448989262-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02C4A_2025_Time_series_prediction_nonlinear_modelling_and_control_combined_notes</title>
+      <guid isPermaLink="false">cd5a8a9c-8a8b-4738-a5a8-0ccf57b65a5b</guid>
+      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+      <description>Neural Networks for Time Series and Control. AI-generated podcast</description>
+      <itunes:summary>Neural Networks for Time Series and Control. AI-generated podcast</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753448965620-cd5a8a9c-8a8b-4738-a5a8-0ccf57b65a5b-1753448958454-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02C4A_2025_Introduction_combined_notes</title>
+      <guid isPermaLink="false">a7caa460-6405-4b5e-ae57-bd3e06d96583</guid>
+      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+      <description>Neural Networks: Principles, History, and Applications. AI-generated podcast</description>
+      <itunes:summary>Neural Networks: Principles, History, and Applications. AI-generated podcast</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753449268464-a7caa460-6405-4b5e-ae57-bd3e06d96583-1753449263641-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02C4A_2025_Nonlinear_PCA_autoencoders_CNN_combined_notes</title>
+      <guid isPermaLink="false">b5db234a-87d1-4eab-8a09-e2cccf687da8</guid>
+      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+      <description>Deep Learning: From PCA to CNNs and Beyond. AI-generated podcast</description>
+      <itunes:summary>Deep Learning: From PCA to CNNs and Beyond. AI-generated podcast</itunes:summary>
+      <itunes:episode>8</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753449288070-b5db234a-87d1-4eab-8a09-e2cccf687da8-1753449283770-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+    <item>
+      <title>H02C4A_2025_Classification_and_Bayesian_decision_theory_combined_notes</title>
+      <guid isPermaLink="false">770c6549-637b-40ed-b824-1c629caddfdb</guid>
+      <pubDate>Fri, 25 Jul 2025 17:27:02 +0000</pubDate>
+      <description>Machine Learning: Classification and Bayesian Decision Theory. AI-generated podcast</description>
+      <itunes:summary>Machine Learning: Classification and Bayesian Decision Theory. AI-generated podcast</itunes:summary>
+      <itunes:episode>9</itunes:episode>
+      <enclosure url="https://data.autocontentapi.com/1753449327795-770c6549-637b-40ed-b824-1c629caddfdb-1753449314463-1.mp3" type="audio/wav" length="10485760"/>
+      <itunes:duration>30:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
