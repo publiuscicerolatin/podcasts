@@ -7,8 +7,8 @@
     <itunes:author>Course AI Assistant</itunes:author>
     <description>AI-generated podcast summaries of ANNDL course materials</description>
     <itunes:summary>AI-generated podcast summaries of ANNDL course materials</itunes:summary>
-    <lastBuildDate>Fri, 25 Jul 2025 17:32:55 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Jul 2025 17:32:55 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Jul 2025 17:39:27 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Jul 2025 17:39:27 +0000</pubDate>
     <item>
       <title>ANNDL - Episode 1: Introduction</title>
       <guid isPermaLink="false">a7caa460-6405-4b5e-ae57-bd3e06d96583</guid>
@@ -54,56 +54,56 @@
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>ANNDL - Episode 5: Recurrent &amp; associative memories</title>
+      <title>ANNDL - Episode 6: Recurrent &amp; associative memories</title>
       <guid isPermaLink="false">543f216b-cad8-4cbe-b292-2444384894fb</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <description>Episode 5 covering Recurrent neural networks and associative memories</description>
-      <itunes:summary>Episode 5 covering Recurrent neural networks and associative memories</itunes:summary>
-      <itunes:episode>5</itunes:episode>
+      <description>Episode 6 covering Recurrent neural networks and associative memories</description>
+      <itunes:summary>Episode 6 covering Recurrent neural networks and associative memories</itunes:summary>
+      <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
       <enclosure url="https://data.autocontentapi.com/1753448603007-543f216b-cad8-4cbe-b292-2444384894fb-1753448597137-1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>ANNDL - Episode 6: Vector quantization, self-organizing maps, regularization theory</title>
+      <title>ANNDL - Episode 7: Vector quantization, self-organizing maps, regularization theory</title>
       <guid isPermaLink="false">fab61117-731d-4e9e-a205-b4723ce0bb6d</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <description>Episode 6 covering Vector quantization, self-organizing maps, regularization theory</description>
-      <itunes:summary>Episode 6 covering Vector quantization, self-organizing maps, regularization theory</itunes:summary>
-      <itunes:episode>6</itunes:episode>
+      <description>Episode 7 covering Vector quantization, self-organizing maps, regularization theory</description>
+      <itunes:summary>Episode 7 covering Vector quantization, self-organizing maps, regularization theory</itunes:summary>
+      <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
       <enclosure url="https://data.autocontentapi.com/1753448615340-fab61117-731d-4e9e-a205-b4723ce0bb6d-1753448607920-1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>ANNDL - Episode 7: Nonlinear principal component analysis, autoencoders &amp; CNNs</title>
+      <title>ANNDL - Episode 9: Nonlinear principal component analysis, autoencoders &amp; CNNs</title>
       <guid isPermaLink="false">b5db234a-87d1-4eab-8a09-e2cccf687da8</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <description>Episode 7 covering Nonlinear principal component analysis, autoencoders, deep learning with stacked autoencoders and convolutional neural networks</description>
-      <itunes:summary>Episode 7 covering Nonlinear principal component analysis, autoencoders, deep learning with stacked autoencoders and convolutional neural networks</itunes:summary>
-      <itunes:episode>7</itunes:episode>
+      <description>Episode 9 covering Nonlinear principal component analysis, autoencoders, deep learning with stacked autoencoders and convolutional neural networks</description>
+      <itunes:summary>Episode 9 covering Nonlinear principal component analysis, autoencoders, deep learning with stacked autoencoders and convolutional neural networks</itunes:summary>
+      <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
       <enclosure url="https://data.autocontentapi.com/1753449288070-b5db234a-87d1-4eab-8a09-e2cccf687da8-1753449283770-1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>ANNDL - Episode 8: Generative models</title>
+      <title>ANNDL - Episode 10: Generative models</title>
       <guid isPermaLink="false">ecbbaba0-0097-46fe-bb1a-0e0d8d4d7b1c</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <description>Episode 8 covering Generative models</description>
-      <itunes:summary>Episode 8 covering Generative models</itunes:summary>
-      <itunes:episode>8</itunes:episode>
+      <description>Episode 10 covering Generative models</description>
+      <itunes:summary>Episode 10 covering Generative models</itunes:summary>
+      <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
       <enclosure url="https://data.autocontentapi.com/1753448997755-ecbbaba0-0097-46fe-bb1a-0e0d8d4d7b1c-1753448989262-1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
     </item>
     <item>
-      <title>ANNDL - Episode 9: Normalization, attention, &amp; transformers</title>
+      <title>ANNDL - Episode 11: Normalization, attention, &amp; transformers</title>
       <guid isPermaLink="false">2ff3c392-88c9-4bd5-a715-03eb0ea31e81</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <description>Episode 9 covering Normalization, attention, and transformers</description>
-      <itunes:summary>Episode 9 covering Normalization, attention, and transformers</itunes:summary>
-      <itunes:episode>9</itunes:episode>
+      <description>Episode 11 covering Normalization, attention, and transformers</description>
+      <itunes:summary>Episode 11 covering Normalization, attention, and transformers</itunes:summary>
+      <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
       <enclosure url="https://data.autocontentapi.com/1753448665399-2ff3c392-88c9-4bd5-a715-03eb0ea31e81-1753448656337-1.mp3" type="audio/wav" length="10485760"/>
       <itunes:duration>30:00</itunes:duration>
